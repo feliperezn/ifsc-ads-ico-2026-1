@@ -6,3 +6,5 @@ Este é o arquivo README.md
 Uma alteração local no README
 
 Um conflito local
+
+Uma alteração remota no README
