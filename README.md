@@ -4,3 +4,5 @@ Aulas de Git e Github na disciplina de Introdução a Computação - IFSC ADS 20
 Este é o arquivo README.md 
 
 Uma alteração local no README
+
+Um conflito local
